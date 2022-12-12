@@ -38750,13 +38750,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 119px;
-}
-
-.u-footer .u-text-1 {
-  font-size: 1rem;
-  width: 631px;
-  margin: 35px auto 0;
+  min-height: 127px;
 }
 
 .u-footer .u-social-icons-1 {
@@ -38765,75 +38759,55 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 89px;
   min-width: 68px;
   white-space: nowrap;
-  margin: -11px 0 0 auto;
+  margin: 48px 0 0 auto;
 }
 
-.u-footer .u-text-2 {
-  font-weight: 400;
-  width: 115px;
-  margin: -2px auto 28px;
-}
-
-.u-footer .u-btn-1 {
-  background-image: none;
-  padding: 0;
+.u-footer .u-text-1 {
+  font-size: 1rem;
+  width: 631px;
+  margin: -21px auto 51px;
 }
 
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 133px;
+    min-height: 125px;
+  }
+
+  .u-footer .u-text-1 {
+    width: 420px;
+    margin-top: -25px;
+    margin-bottom: 54px;
+  }
+}
+@media (max-width: 767px) {
+  .u-footer .u-sheet-1 {
+    min-height: 127px;
+  }
+
+  .u-footer .u-social-icons-1 {
+    margin-top: 71px;
+    margin-right: auto;
   }
 
   .u-footer .u-text-1 {
     width: auto;
-    margin-top: 35px;
-    margin-left: 45px;
-    margin-right: 45px;
-  }
-
-  .u-footer .u-social-icons-1 {
-    margin-top: -11px;
-  }
-
-  .u-footer .u-text-2 {
-    margin-top: 4px;
-    margin-bottom: 35px;
-  }
-}
-@media (max-width: 767px) {
-  .u-footer .u-text-1 {
-    margin-top: 23px;
-  }
-
-  .u-footer .u-social-icons-1 {
-    margin-top: 7px;
-    margin-right: auto;
-  }
-
-  .u-footer .u-text-2 {
-    margin-top: 10px;
-    margin-bottom: 23px;
+    margin: -60px 71px 60px 49px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 150px;
+    min-height: 121px;
+  }
+
+  .u-footer .u-social-icons-1 {
+    margin-top: 67px;
   }
 
   .u-footer .u-text-1 {
     font-size: 0.75rem;
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-footer .u-social-icons-1 {
-    margin-top: 20px;
-  }
-
-  .u-footer .u-text-2 {
-    margin-top: 20px;
-    margin-bottom: 26px;
+    margin-top: -59px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
